@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: e2540bd8fbcdc4045aca5c1419b328b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8779553097428608226
+    second: reimuSpriteSheetB (1)_0
+  - first:
+      213: 7928751127476026608
+    second: reimuSpriteSheetB (1)_1
+  - first:
+      213: -3823901023528048362
+    second: reimuSpriteSheetB (1)_2
+  - first:
+      213: -4881921060404075997
+    second: reimuSpriteSheetB (1)_3
+  - first:
+      213: -5121353688822603907
+    second: reimuSpriteSheetB (1)_4
+  - first:
+      213: 2203382249905216443
+    second: reimuSpriteSheetB (1)_5
+  - first:
+      213: -5980054452411706566
+    second: reimuSpriteSheetB (1)_6
+  - first:
+      213: -614089013804228670
+    second: reimuSpriteSheetB (1)_7
+  - first:
+      213: -493513352576944018
+    second: reimuSpriteSheetB (1)_8
+  - first:
+      213: -7316380766005221916
+    second: reimuSpriteSheetB (1)_9
+  - first:
+      213: 7661318483976313632
+    second: reimuSpriteSheetB (1)_10
+  - first:
+      213: -3598654788446378710
+    second: reimuSpriteSheetB (1)_11
+  - first:
+      213: 8093363624584146583
+    second: reimuSpriteSheetB (1)_12
+  - first:
+      213: 7329061359271927582
+    second: reimuSpriteSheetB (1)_13
+  - first:
+      213: 4208182905765300315
+    second: reimuSpriteSheetB (1)_14
+  - first:
+      213: -7604327474064453241
+    second: reimuSpriteSheetB (1)_15
+  - first:
+      213: -8093608218972051854
+    second: reimuSpriteSheetB (1)_16
+  - first:
+      213: -7346005893131210664
+    second: reimuSpriteSheetB (1)_17
+  - first:
+      213: -986047905644174178
+    second: reimuSpriteSheetB (1)_18
+  - first:
+      213: -3866740305265226453
+    second: reimuSpriteSheetB (1)_19
+  - first:
+      213: -2926323642797387374
+    second: reimuSpriteSheetB (1)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b561559f2c82680800000000000000
+      internalID: -8779553097428608226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcbfa16425980e60800000000000000
+      internalID: 7928751127476026608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 131
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ab5c6746ceeac0800000000000000
+      internalID: -3823901023528048362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ed1d39aeef3cb0800000000000000
+      internalID: -4881921060404075997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f979044fb4de8b0800000000000000
+      internalID: -5121353688822603907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb50067b7cf39e10800000000000000
+      internalID: 2203382249905216443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d182c824920da0800000000000000
+      internalID: -5980054452411706566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf9ab7ab415a77f0800000000000000
+      internalID: -614089013804228670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 52
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e683db77830b629f0800000000000000
+      internalID: -493513352576944018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 52
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e522c8057ef67a90800000000000000
+      internalID: -7316380766005221916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bda8cd198725a60800000000000000
+      internalID: 7661318483976313632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25256159820f0ec0800000000000000
+      internalID: -3598654788446378710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 52
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ee7690657615070800000000000000
+      internalID: 8093363624584146583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd178a97e06b560800000000000000
+      internalID: 7329061359271927582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5803009e08766a30800000000000000
+      internalID: 4208182905765300315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78115a8a370087690800000000000000
+      internalID: -7604327474064453241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2762df4e43abdaf80800000000000000
+      internalID: -8093608218972051854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850fcfd9f8ebd0a90800000000000000
+      internalID: -7346005893131210664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94af8477aad052f0800000000000000
+      internalID: -986047905644174178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0bf1ed24965ac0800000000000000
+      internalID: -3866740305265226453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimuSpriteSheetB (1)_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2911c35b62c9367d0800000000000000
+      internalID: -2926323642797387374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      reimuSpriteSheetB (1)_0: -8779553097428608226
+      reimuSpriteSheetB (1)_1: 7928751127476026608
+      reimuSpriteSheetB (1)_10: 7661318483976313632
+      reimuSpriteSheetB (1)_11: -3598654788446378710
+      reimuSpriteSheetB (1)_12: 8093363624584146583
+      reimuSpriteSheetB (1)_13: 7329061359271927582
+      reimuSpriteSheetB (1)_14: 4208182905765300315
+      reimuSpriteSheetB (1)_15: -7604327474064453241
+      reimuSpriteSheetB (1)_16: -8093608218972051854
+      reimuSpriteSheetB (1)_17: -7346005893131210664
+      reimuSpriteSheetB (1)_18: -986047905644174178
+      reimuSpriteSheetB (1)_19: -3866740305265226453
+      reimuSpriteSheetB (1)_2: -3823901023528048362
+      reimuSpriteSheetB (1)_20: -2926323642797387374
+      reimuSpriteSheetB (1)_3: -4881921060404075997
+      reimuSpriteSheetB (1)_4: -5121353688822603907
+      reimuSpriteSheetB (1)_5: 2203382249905216443
+      reimuSpriteSheetB (1)_6: -5980054452411706566
+      reimuSpriteSheetB (1)_7: -614089013804228670
+      reimuSpriteSheetB (1)_8: -493513352576944018
+      reimuSpriteSheetB (1)_9: -7316380766005221916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawner
+  - Enemy
+  - Boss
+  - PlayerBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - aboveBG
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 1658217429
+    locked: 0
+  - name: Player
+    uniqueID: 634603231
+    locked: 0
+  - name: hitbox
+    uniqueID: 3115985405
+    locked: 0
+  - name: Boss
+    uniqueID: 1396773459
+    locked: 0
+  - name: UI
+    uniqueID: 3783850295
+    locked: 0
